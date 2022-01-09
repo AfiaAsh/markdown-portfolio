@@ -1,13 +1,12 @@
 :sparkles: :heart: :tada:
-<ol>
- <li>This</li>
- <li>Is an</li>
- <li>Ordered list</li> 
-</ol>
 
-<ul>
- <li>This</li>
- <li>Is an</li>
- <li>Unordered list</li> 
-</ul>
+1. Item 1
+2. Item 2
+   1. Item 2a
+   2. Item 2b
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
